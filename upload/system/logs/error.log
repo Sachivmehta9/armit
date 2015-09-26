@@ -1,0 +1,57 @@
+2015-09-22 14:08:54 - PHP Notice:  Undefined variable: register in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\account\register.tpl on line 68
+2015-09-22 14:09:51 - PHP Notice:  Undefined variable: forgotten in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\account\register.tpl on line 69
+2015-09-22 14:09:51 - PHP Notice:  Undefined variable: text_forgotten in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\account\register.tpl on line 69
+2015-09-22 14:09:51 - PHP Notice:  Undefined variable: redirect in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\account\register.tpl on line 70
+2015-09-22 14:10:25 - PHP Notice:  Undefined variable: forgotten in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\account\register.tpl on line 69
+2015-09-22 14:10:25 - PHP Notice:  Undefined variable: text_forgotten in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\account\register.tpl on line 69
+2015-09-22 14:10:56 - PHP Notice:  Undefined variable: forgotten in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\account\register.tpl on line 69
+2015-09-22 14:10:56 - PHP Notice:  Undefined variable: text_forgotten in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\account\register.tpl on line 69
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: firstname in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 351
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 355
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 359
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 359
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 363
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: telephone in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 367
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: address_1 in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 371
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: city in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 375
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 381
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 387
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 413
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: confirm in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 417
+2015-09-23 9:03:42 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\armitnew\upload\catalog\controller\account\register.php on line 417
+2015-09-23 11:10:20 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 9
+2015-09-23 11:10:20 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 10
+2015-09-23 11:10:20 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 15
+2015-09-23 11:10:20 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 22
+2015-09-23 11:10:20 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 23
+2015-09-23 11:13:27 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 10
+2015-09-23 11:13:27 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 11
+2015-09-23 11:13:27 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 16
+2015-09-23 11:13:27 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 23
+2015-09-23 11:13:27 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 24
+2015-09-23 11:13:41 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 10
+2015-09-23 11:13:41 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 11
+2015-09-23 11:13:41 - PHP Notice:  Indirect modification of overloaded property ControllerInformationStatic::$data has no effect in C:\xampp\htdocs\armitnew\upload\catalog\controller\information\static.php on line 16
+2015-09-23 11:15:47 - Cannot find controller class file for route 'polodemo1blue/template/information/static.tpl'
+2015-09-23 11:19:14 - PHP Notice:  Undefined index: separator in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\information\static.tpl on line 7
+2015-09-23 11:19:14 - PHP Notice:  Undefined index: separator in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\information\static.tpl on line 7
+2015-09-23 11:19:14 - PHP Notice:  Undefined variable: text_content in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\information\static.tpl on line 14
+2015-09-23 11:21:12 - PHP Notice:  Undefined variable: header in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\information\static.tpl on line 2
+2015-09-23 11:21:12 - PHP Notice:  Undefined variable: footer in C:\xampp\htdocs\armitnew\upload\catalog\view\theme\polodemo1blue\template\information\static.tpl on line 5
+2015-09-25 8:46:43 - PHP Warning:  unlink(C:/xampp/htdocs/armitnew/upload/system/cache/cache.currency.1443159668): No such file or directory in C:\xampp\htdocs\armitnew\upload\system\library\cache\file.php on line 17
+2015-09-25 9:22:33 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:22:33 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:22:33 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:22:33 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:28:01 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:28:01 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:28:01 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:28:01 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:29:05 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:29:05 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:29:05 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:29:05 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:29:26 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:29:26 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:29:26 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
+2015-09-25 9:29:26 - PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\armitnew\upload\catalog\controller\module\magikslider.php on line 14
